@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**LucasDonizeti/LucasDonizeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eu sou Lucas Donizeti, estudante de análise e desenvolvimento de sistemas na Fatec de Mogi das Cruzes/SP, tenho interesse em programação web, IoT e aplicações cliente-servidor em geral. Tenho interesse em linguagens como Java, Kotlin e javascript. Sempre estou buscando aprender mais e aberto a novas soluções.
+```javascript
+var lucasDonizeti{
+        linguagens:["Java", "javscript", "C", "C++", "Kotlin"],
+        tecnologias:{
+            frontEnd:["Vue.js", "Bootstrap"],
+            backEnd:["Spring", "Quarkus"],
+            database:["OracleXE", "MySql", "MongoDb", "Postgres"],
+            outros:["Selenium", "Hibernate", "Thymeleaf"]
+        }
+    }
+```
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ldon/)[![](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3oizqo1Vv7kk4ySoFfeT4Z)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasDonizeti)
