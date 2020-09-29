@@ -1,12 +1,12 @@
 Eu sou Lucas Donizeti, estudante de análise e desenvolvimento de sistemas na Fatec de Mogi das Cruzes/SP, tenho interesse em programação web, IoT e aplicações cliente-servidor em geral. Tenho interesse em linguagens como Java, Kotlin e javascript. Sempre estou buscando aprender mais e aberto a novas soluções.
 ```javascript
 var lucasDonizeti{
-        linguagens:["Java", "javscript", "C", "C++", "Kotlin"],
-        tecnologias:{
+        languages:["Java", "javscript", "C", "C++", "Kotlin"],
+        technologies:{
             frontEnd:["Vue.js", "Bootstrap"],
             backEnd:["Spring", "Quarkus"],
             database:["OracleXE", "MySql", "MongoDb", "Postgres"],
-            outros:["Selenium", "Hibernate", "Thymeleaf"]
+            others:["Selenium", "Hibernate", "Thymeleaf"]
         }
     }
 ```
