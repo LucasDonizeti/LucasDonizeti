@@ -3,7 +3,7 @@ Eu sou Lucas Donizeti, estudante de análise e desenvolvimento de sistemas na Fa
 var lucasDonizeti{
         languages:["Java", "javascript", "C", "C++", "Kotlin"],
         technologies:{
-            frontEnd:["Vue.js", "Bootstrap"],
+            frontEnd:["Bootstrap"],
             backEnd:["Spring", "Quarkus"],
             database:["OracleXE", "MySql", "MongoDb", "Postgres"],
             others:["Selenium", "Hibernate", "Thymeleaf", "Maven"]
