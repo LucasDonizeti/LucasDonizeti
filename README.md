@@ -4,8 +4,8 @@ var lucasDonizeti{
         languages:["Java", "javascript", "C", "C++", "Kotlin"],
         technologies:{
             frontEnd:["Bootstrap"],
-            backEnd:["Spring", "Quarkus"],
-            database:["OracleXE", "MySql", "MongoDb", "Postgres"],
+            backEnd:["Spring"],
+            database:["OracleXE", "MySql"],
             others:["Selenium", "Hibernate", "Thymeleaf", "Maven"]
         }
     }
